@@ -1,0 +1,14 @@
+{
+    "name": "rclone-heroku-mg",
+    "description": "",
+    "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
+    "keywords": [
+      "r-clone",
+      "heroku",
+      "aria",
+    ],
+    "repository": "https://github.com/magneto261290/heroku-buildpack-rclone-mod",
+    "website": "https://github.com/CarryDeol03/rclone-heroku-mg",
+    "success_url": "https://github.com/CarryDeol03/rclone-heroku-mg/blob/master/README.md",
+    "stack": "container",
+}
